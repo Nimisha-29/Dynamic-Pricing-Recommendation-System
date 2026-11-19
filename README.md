@@ -41,7 +41,6 @@ It analyzes product information, sales, demand, inventory levels and competitor 
 
 ```text
 Dynamic-Pricing-Recommendation-System/
-│
 ├── backend/
 ├── frontend/
 ├── data/
@@ -71,7 +70,7 @@ The dataset contains product-level information such as:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Nimisha-29/Dynamic-Pricing-Recommendation-System.git
 ```
 
 Navigate to the project directory:
