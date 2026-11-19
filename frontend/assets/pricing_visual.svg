@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520">
+<rect width="720" height="520" fill="#f4f6fb"/>
+<rect x="55" y="55" width="610" height="410" rx="12" fill="#fff" stroke="#d9deea"/>
+<rect x="88" y="92" width="240" height="34" rx="6" fill="#111b35"/>
+<text x="105" y="115" font-family="Arial" font-size="17" fill="#fff" font-weight="700">PRICE RECOMMENDER</text>
+<rect x="88" y="155" width="544" height="92" rx="8" fill="#f7f8fc" stroke="#e0e4ee"/>
+<text x="110" y="181" font-family="Arial" font-size="14" fill="#6b7280">Recommended selling price</text>
+<text x="110" y="222" font-family="Arial" font-size="34" fill="#111b35" font-weight="700">₹ 485</text>
+<path d="M315 216 C370 160 420 190 466 150 S560 135 610 103" fill="none" stroke="#6574d8" stroke-width="6"/>
+<circle cx="610" cy="103" r="10" fill="#6574d8"/>
+<g font-family="Arial" font-size="13" fill="#4b5563"><text x="90" y="285">Demand</text><text x="90" y="325">Inventory</text><text x="90" y="365">Competitor</text><text x="90" y="405">Sales</text></g>
+<g><rect x="180" y="271" width="390" height="10" rx="5" fill="#e7eaf2"/><rect x="180" y="271" width="305" height="10" rx="5" fill="#6574d8"/><rect x="180" y="311" width="390" height="10" rx="5" fill="#e7eaf2"/><rect x="180" y="311" width="255" height="10" rx="5" fill="#2e6b55"/><rect x="180" y="351" width="390" height="10" rx="5" fill="#e7eaf2"/><rect x="180" y="351" width="285" height="10" rx="5" fill="#a36b19"/><rect x="180" y="391" width="390" height="10" rx="5" fill="#e7eaf2"/><rect x="180" y="391" width="330" height="10" rx="5" fill="#5969c8"/></g>
+</svg>
